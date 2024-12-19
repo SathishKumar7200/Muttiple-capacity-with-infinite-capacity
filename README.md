@@ -3,6 +3,10 @@
 
 EXPO NO: 05
 
+NAME : Sathish kumar .M
+
+REF NO : 24900774
+
 
 
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
@@ -35,10 +39,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-Developed By: Sathish Kumar.M
 
-
-Reference No:24900774
 ```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
